@@ -1,0 +1,14 @@
+{
+  "name": "@repo/config",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./prettier": "./prettier/index.cjs"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
+
+
